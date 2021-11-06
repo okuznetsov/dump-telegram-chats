@@ -1,0 +1,5 @@
+.idea
+*.sqlite
+*.sqlite3
+*.session
+*.env
